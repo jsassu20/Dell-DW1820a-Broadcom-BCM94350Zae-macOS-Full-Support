@@ -1,6 +1,8 @@
-# Broadcom BCM4350 (DW1820a) Completely Functional in macOS
+---
+# Broadcom BCM4350 Full Support in macOS
+---
 
-## Works with all variations of the card in Yosemite-Catalina
+### Supports all BCM4350 cards with Yosemite - Catalina
 
 Complete solution for for BCM4350 based wireless cards in MacOS. SOLVES ALL ISSUES ACROSS ALL CARDS
 
