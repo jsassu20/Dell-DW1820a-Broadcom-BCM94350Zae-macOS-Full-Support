@@ -5,15 +5,17 @@
 
 ### Fully Supported Hardware in macOS Yosemite - Catalina:
 
-- The Dell DW1820a in all available hardware revisions!
+- Dell DW1820a 802.11 AC Wireless Network & Bluetooth 4.1 LE NGFF Card! Includes Revisions:
   - CV-OVW3T3
   - CN-096JNT
   - CN-0VW3T3
   - CN-08PKF4
   
-- The Lenovo 00JT493
+- Lenovo 00JT493 802.11 AC Wireless Network & Bluetooth 4.1 LE NGFF Card.
 
-- The Foxcon T77H649
+and 
+
+- Foxcon T77H649 802.11 AC Wireless Network & Bluetooth 4.1 LE NGFF Card.
 
 
 ### Background:
