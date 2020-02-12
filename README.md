@@ -1,9 +1,9 @@
-# Broadcom BCM94350Zae Support (macOS 10.10 - 10.15)
+# Broadcom BCM94350Zae Hardware Support In macOS
 ---
 
 **Supports all variants of the Broadcom BCM94350Zae (BCM4350) chipset currently available as NGFF A/E based Wireless AC and Bluetooth 4.1 hardware!**
 
-### Including:
+### Fully Supported Hardware in macOS Yosemite - Catalina:
 
 - The Dell DW1820a in all available hardware revisions!
   - CV-OVW3T3
