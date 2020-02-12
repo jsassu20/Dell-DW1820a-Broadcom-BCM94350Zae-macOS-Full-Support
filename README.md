@@ -5,11 +5,11 @@
 
 ### Including:
 
-- The Dell Dw1820a in all variants!
-  - Version CV-OVW3T3
-  - Version CN-096JNT
-  - Version CN-0VW3T3
-  - Version CN-08PKF4
+- The Dell DW1820a in all available hardware revisions!
+  - CV-OVW3T3
+  - CN-096JNT
+  - CN-0VW3T3
+  - CN-08PKF4
   
 - The Lenovo 00JT493
 
