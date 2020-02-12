@@ -2,7 +2,7 @@
 # Broadcom BCM4350 Full Support (macOS 10.10 - 10.15)
 ---
 
-### Supports all BCM4350 cards with Yosemite - Catalina
+### Supports all variants of the Broadcom BCM4350 chipset currently available as NGFF A/E based Wireless AC and Bluetooth 4.1 m.2 cards.
 
 Complete solution for for BCM4350 based wireless cards in MacOS. SOLVES ALL ISSUES ACROSS ALL CARDS
 
