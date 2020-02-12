@@ -29,6 +29,8 @@
 
 - The same applies for the address thats used in the SSDT file! Your hardware may be different and if it is the proper settings need to be changed in the DSDT patch file for the patch to work.
 
+![Image description](Config/properties.png)
+
 ---
 
 ### All Credit Goes To: 
