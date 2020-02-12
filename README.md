@@ -1,7 +1,7 @@
 # Broadcom BCM94350Zae Support (macOS 10.10 - 10.15)
 ---
 
-**Supports all variants of the Broadcom BCM94350Zae (BCM4350) chipset currently available as NGFF A/E based Wireless AC and Bluetooth 4.1 hardware!
+**Supports all variants of the Broadcom BCM94350Zae (BCM4350) chipset currently available as NGFF A/E based Wireless AC and Bluetooth 4.1 hardware!**
 
 ### Including:
 
