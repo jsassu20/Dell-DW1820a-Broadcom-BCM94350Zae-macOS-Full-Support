@@ -6,4 +6,4 @@ All credit goes to:
 
 Herve (https://osxlatitude.com/forums/topic/11322-broadcom-bcm4350-cards-under-high-sierramojavecatalina/?tab=comments#comment-96996) 
 
-and the people who spent months putting this together on OSXlattitude via the thread Herve started 
+and the people who spent months putting this together on OSXlattitude via his thread dedicated to the topic.
