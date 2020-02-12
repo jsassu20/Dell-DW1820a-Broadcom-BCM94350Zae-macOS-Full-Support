@@ -13,8 +13,6 @@
   
 - Lenovo 00JT493 802.11 AC Wireless Network & Bluetooth 4.1 LE NGFF Card.
 
-and 
-
 - Foxcon T77H649 802.11 AC Wireless Network & Bluetooth 4.1 LE NGFF Card.
 
 
