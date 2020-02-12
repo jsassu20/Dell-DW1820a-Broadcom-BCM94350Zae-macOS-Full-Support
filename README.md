@@ -1,7 +1,19 @@
 # Broadcom BCM94350Zae Support (macOS 10.10 - 10.15)
 ---
 
-- Supports all variants of the Broadcom BCM94350Zae (BCM4350) chipset currently available as NGFF A/E based Wireless AC and Bluetooth 4.1 hardware!
+**Supports all variants of the Broadcom BCM94350Zae (BCM4350) chipset currently available as NGFF A/E based Wireless AC and Bluetooth 4.1 hardware!
+
+### Including:
+
+- The Dell Dw1820a in all variants!
+  - Version CV-OVW3T3
+  - Version CN-096JNT
+  - Version CN-0VW3T3
+  - Version CN-08PKF4
+  
+- The Lenovo 00JT493
+
+- The Foxcon T77H649
 
 
 ### Background:
