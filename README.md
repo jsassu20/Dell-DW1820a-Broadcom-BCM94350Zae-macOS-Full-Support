@@ -1,5 +1,5 @@
 ---
-# Broadcom BCM4350 Fully Working In macOS Yosemite - Catalina
+# Broadcom BCM4350 Completely Supported in macOS 10.10.x - 10.15.x
 ---
 
 ### Supports all BCM4350 cards with Yosemite - Catalina
